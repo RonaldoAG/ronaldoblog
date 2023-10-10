@@ -1,0 +1,6 @@
+---
+title: "My first post"
+author: "Ronaldo Anticona"
+date: "2023-10-09"
+categories: [quarto, code, analysis]
+---
