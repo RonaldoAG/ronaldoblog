@@ -2,18 +2,28 @@ project:
   type: website
 
 website:
-  title: "ronaldoblog"
+  title: "Blog de Ronaldo Anticona Guillen "
+  site-url: "https://ronaldoag.netlify.app/"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/RonaldoAG
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ronaldoanticonaguillen/
+      - icon: rpubs
+        href: https://rpubs.com/RonaldoAnticona
 format:
   html:
-    theme: cosmo
+    smooth-scroll: true
+    theme:
+      dark: darkly
+      light: flatly
     css: styles.css
+    link-external-newwindow: true
 
 editor: visual
+comments:
+  giscus:
+    repo: RonaldoAG/ronaldoblog
 

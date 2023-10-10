@@ -1,6 +1,6 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
+title: "Post con códigos"
+author: "Ronaldo Anticona"
 date: "2023-10-09"
 categories: [news, code, analysis]
 image: "image.jpg"
