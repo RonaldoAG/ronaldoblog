@@ -4,6 +4,7 @@ project:
 website:
   title: "Blog de Ronaldo Anticona Guillen "
   site-url: "https://ronaldoag.netlify.app/"
+  description: "A great sample blog"
   navbar:
     right:
       - about.qmd
@@ -11,7 +12,7 @@ website:
         href: https://github.com/RonaldoAG
       - icon: linkedin
         href: https://www.linkedin.com/in/ronaldoanticonaguillen/
-      - icon: rpubs
+      - icon: rss
         href: https://rpubs.com/RonaldoAnticona
 format:
   html:
