@@ -11,3 +11,9 @@ page-layout: full
 title-block-banner: true
 ---
 
+
+```{r}
+library("usethis")
+usethis::use_git()
+usethis::use_github()
+```
