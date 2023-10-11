@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "ronaldoblog",
     "section": "",
-    "text": "My first post\n\n\n\nquarto\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nRonaldo Anticona\n\n\nOct 10, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost con códigos\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nRonaldo Anticona\n\n\nOct 9, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBienvenido a mi blog\n\n\n\nnews\n\n\n\n\n\n\n\nRonaldo Anticona\n\n\nOct 6, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "library(\"usethis\")\nusethis::git_sitrep()\nusethis::use_git()\nusethis::use_github()\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\nMy first post\n\n\n\nquarto\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nRonaldo Anticona\n\n\nOct 10, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost con códigos\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nRonaldo Anticona\n\n\nOct 9, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBienvenido a mi blog\n\n\n\nnews\n\n\n\n\n\n\n\nRonaldo Anticona\n\n\nOct 6, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
