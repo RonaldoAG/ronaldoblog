@@ -14,6 +14,7 @@ title-block-banner: true
 
 ```{r}
 library("usethis")
+usethis::git_sitrep()
 usethis::use_git()
 usethis::use_github()
 ```
